@@ -1,0 +1,43 @@
+[2024-12-16T08:40:58.861Z] [32minfo[39m: 	[32mMongoDB disconnected[39m
+[2024-12-16T08:40:58.864Z] [31merror[39m: 	[31mInitial MongoDB connection error[39m
+[2024-12-16T08:40:58.904Z] [31merror[39m: 	[31mError in MongoDB connection[39m
+[2024-12-16T08:40:58.905Z] [32minfo[39m: 	[32mServer is listening on port: 4000[39m
+[2024-12-16T08:40:58.906Z] [32minfo[39m: 	[32mApollo Server is running on http://localhost:4000/graphql[39m
+[2024-12-16T08:41:17.472Z] [32minfo[39m: 	[32mMongoDB connected[39m
+[2024-12-16T08:41:17.475Z] [32minfo[39m: 	[32mSuccessfully connected to MongoDB[39m
+[2024-12-16T08:41:17.509Z] [32minfo[39m: 	[32mServer is listening on port: 4000[39m
+[2024-12-16T08:41:17.510Z] [32minfo[39m: 	[32mApollo Server is running on http://localhost:4000/graphql[39m
+[2024-12-16T08:42:12.175Z] [32minfo[39m: 	[32mMongoDB connected[39m
+[2024-12-16T08:42:12.178Z] [32minfo[39m: 	[32mSuccessfully connected to MongoDB[39m
+[2024-12-16T08:42:12.214Z] [32minfo[39m: 	[32mServer is listening on port: 4000[39m
+[2024-12-16T08:42:56.231Z] [32minfo[39m: 	[32mMongoDB connected[39m
+[2024-12-16T08:42:56.234Z] [32minfo[39m: 	[32mSuccessfully connected to MongoDB[39m
+[2024-12-16T08:42:56.237Z] [32minfo[39m: 	[32mServer is listening on port: 4000[39m
+[2024-12-16T08:43:52.313Z] [32minfo[39m: 	[32mMongoDB connected[39m
+[2024-12-16T08:43:52.316Z] [32minfo[39m: 	[32mSuccessfully connected to MongoDB[39m
+[2024-12-16T08:43:52.319Z] [32minfo[39m: 	[32mServer is listening on port: 4000[39m
+[2024-12-16T08:43:58.331Z] [32minfo[39m: 	[32mApollo Server is running on http://localhost:4000/graphql[39m
+[2024-12-16T08:44:00.022Z] [32minfo[39m: 	[32mMongoDB connected[39m
+[2024-12-16T08:44:00.023Z] [32minfo[39m: 	[32mSuccessfully connected to MongoDB[39m
+[2024-12-16T08:44:00.025Z] [32minfo[39m: 	[32mServer is listening on port: 4000[39m
+[2024-12-16T08:44:42.910Z] [32minfo[39m: 	[32mApollo Server is running on http://localhost:4000/graphql[39m
+[2024-12-16T08:44:45.162Z] [32minfo[39m: 	[32mMongoDB connected[39m
+[2024-12-16T08:44:45.163Z] [32minfo[39m: 	[32mSuccessfully connected to MongoDB[39m
+[2024-12-16T08:44:45.166Z] [32minfo[39m: 	[32mServer is listening on port: 4000[39m
+[2024-12-16T08:44:55.727Z] [32minfo[39m: 	[32mApollo Server is running on http://localhost:4000/graphql[39m
+[2024-12-16T08:45:01.025Z] [32minfo[39m: 	[32mMongoDB connected[39m
+[2024-12-16T08:45:01.027Z] [32minfo[39m: 	[32mSuccessfully connected to MongoDB[39m
+[2024-12-16T08:45:01.029Z] [32minfo[39m: 	[32mServer is listening on port: 4000[39m
+[2024-12-16T08:45:14.049Z] [32minfo[39m: 	[32mApollo Server is running on http://localhost:4000/graphql[39m
+[2024-12-16T08:45:14.845Z] [32minfo[39m: 	[32mMongoDB connected[39m
+[2024-12-16T08:45:14.847Z] [32minfo[39m: 	[32mSuccessfully connected to MongoDB[39m
+[2024-12-16T08:45:14.850Z] [32minfo[39m: 	[32mServer is listening on port: 4000[39m
+[2024-12-16T08:45:53.787Z] [32minfo[39m: 	[32mApollo Server is running on http://localhost:4000/graphql[39m
+[2024-12-16T08:45:54.586Z] [32minfo[39m: 	[32mMongoDB connected[39m
+[2024-12-16T08:45:54.588Z] [32minfo[39m: 	[32mSuccessfully connected to MongoDB[39m
+[2024-12-16T08:45:54.593Z] [32minfo[39m: 	[32mServer is listening on port: 4000[39m
+[2024-12-16T08:46:03.591Z] [32minfo[39m: 	[32mApollo Server is running on http://localhost:4000/graphql[39m
+[2024-12-16T08:46:09.415Z] [32minfo[39m: 	[32mMongoDB connected[39m
+[2024-12-16T08:46:09.419Z] [32minfo[39m: 	[32mSuccessfully connected to MongoDB[39m
+[2024-12-16T08:46:09.455Z] [32minfo[39m: 	[32mServer is listening on port: 4000[39m
+[2024-12-16T08:46:09.455Z] [32minfo[39m: 	[32mApollo Server is running on http://localhost:4000/graphql[39m
